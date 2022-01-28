@@ -1,0 +1,14 @@
+{
+  "targets": {
+    "conf-angular": {
+      "hosting": {
+        "angular-config": [
+          "conf-angular"
+        ]
+      }
+    }
+  },
+  "projects": {
+    "default": "conf-angular"
+  }
+}
